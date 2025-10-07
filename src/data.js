@@ -2,79 +2,79 @@ import { RANDOMIZED } from "./settings";
 
 const cats = [{
   'id': 'YdAqiUkUoWA',
-  'url': 'src/img/cats-1.jpg',
+  'url': './img/cats-1.jpg',
   'description': '',
 }, {
   'id': 'hX_hf2lPpUU',
-  'url': 'src/img/cats-2.jpg',
+  'url': './img/cats-2.jpg',
   'description': '',
 }, {
   'id': 'w1JE5duY62M',
-  'url': 'src/img/cats-3.jpg',
+  'url': './img/cats-3.jpg',
   'description': '',
 }, {
   'id': '3tYZjGSBwbk',
-  'url': 'src/img/cats-4.jpg',
+  'url': './img/cats-4.jpg',
   'description': '',
 }, {
   'id': 'NoXUQ54pDac',
-  'url': 'src/img/cats-5.jpg',
+  'url': './img/cats-5.jpg',
   'description': '',
 }, {
   'id': 'OZhYgZh0bAg',
-  'url': 'src/img/cats-6.jpg',
+  'url': './img/cats-6.jpg',
   'description': '',
 }];
 
 const cars = [{
   'id': 'YdAqiUkUoWA',
-  'url': 'src/img/cars-1.jpg',
+  'url': './img/cars-1.jpg',
   'description': '',
 }, {
   'id': 'hX_hf2lPpUU',
-  'url': 'src/img/cars-2.jpg',
+  'url': './img/cars-2.jpg',
   'description': '',
 }, {
   'id': 'w1JE5duY62M',
-  'url': 'src/img/cars-3.jpg',
+  'url': './img/cars-3.jpg',
   'description': '',
 }, {
   'id': '3tYZjGSBwbk',
-  'url': 'src/img/cars-4.jpg',
+  'url': './img/cars-4.jpg',
   'description': '',
 }, {
   'id': 'NoXUQ54pDac',
-  'url': 'src/img/cars-5.jpg',
+  'url': './img/cars-5.jpg',
   'description': '',
 }, {
   'id': 'OZhYgZh0bAg',
-  'url': 'src/img/cars-6.jpg',
+  'url': './img/cars-6.jpg',
   'description': '',
 }];
 
 const flowers = [{
   'id': 'YdAqiUkUoWA',
-  'url': 'src/img/flowers-1.jpg',
+  'url': './img/flowers-1.jpg',
   'description': '',
 }, {
   'id': 'hX_hf2lPpUU',
-  'url': 'src/img/flowers-2.jpg',
+  'url': './img/flowers-2.jpg',
   'description': '',
 }, {
   'id': 'w1JE5duY62M',
-  'url': 'src/img/flowers-3.jpg',
+  'url': './img/flowers-3.jpg',
   'description': '',
 }, {
   'id': '3tYZjGSBwbk',
-  'url': 'src/img/flowers-4.jpg',
+  'url': './img/flowers-4.jpg',
   'description': '',
 }, {
   'id': 'NoXUQ54pDac',
-  'url': 'src/img/flowers-5.jpg',
+  'url': './img/flowers-5.jpg',
   'description': '',
 }, {
   'id': 'OZhYgZh0bAg',
-  'url': 'src/img/flowers-6.jpg',
+  'url': './img/flowers-6.jpg',
   'description': '',
 }];
 
