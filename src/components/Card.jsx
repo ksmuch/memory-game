@@ -16,7 +16,7 @@ function Card({item, isVisible, isFinished, onCardClick}) {
 
     return (
         <li key={id} className={className} onClick = {handleClick}>
-            <img src={url} width="204" height="144" alt="Котик" />
+            <img src={import.meta.env.BASE_URL + url} width="204" height="144" alt="Котик" />
         </li>
     );
 };
